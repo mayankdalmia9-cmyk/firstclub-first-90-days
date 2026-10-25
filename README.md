@@ -43,6 +43,7 @@ Full journey spec, in the CleverTap/WebEngage structure: [`journey/produce_led_o
   - **Retention report:** first Order Placed → any Order Placed, weekly
 - **SQL (SQLite):** funnel, repeat ladder, weekly cohorts, gift cost and experiment readout (`sql/`).
 - **CleverTap / WebEngage:** journey designed to their spec format. These tools need a business account, so it's specified, not deployed.
+
 ![Mixpanel funnel by city (simulated)](images/mixpanel_funnel.png)
 ![Mixpanel weekly retention (simulated)](images/mixpanel_retention.png)
 
