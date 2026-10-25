@@ -1,0 +1,2 @@
+control_buyers,treatment_buyers,control_3rd_order_28d_pct,treatment_3rd_order_28d_pct,lift_pct_points,ci95_low,ci95_high,control_incentive_cost_per_buyer_inr,treatment_incentive_cost_per_buyer_inr
+2465,2578,46.5,52.1,5.6,2.8,8.3,338.0,196.0

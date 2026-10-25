@@ -1,0 +1,4 @@
+city,installs,browsed,carted,signed_up,ordered,pct_browse_of_installs,pct_cart_of_browse,pct_signup_of_cart,pct_order_of_signup,pct_install_to_first_order
+Bengaluru,17027,14226,8846,6585,4636,83.5,62.2,74.4,70.4,27.2
+Hyderabad,2973,1382,871,644,460,46.5,63.0,73.9,71.4,15.5
+All,20000,15608,9717,7229,5096,78.0,62.3,74.4,70.5,25.5
